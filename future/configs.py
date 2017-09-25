@@ -8,7 +8,6 @@ class Config(object):
     APP_DIR = os.path.abspath(os.path.dirname(__file__))  # This directory
     PROJECT_ROOT = os.path.abspath(os.path.join(APP_DIR, os.pardir))
 
-
 class ProdConfig(Config):
     """Production configuration."""
 
@@ -21,6 +20,9 @@ class DevConfig(Config):
 
     ENV = 'dev'
     DEBUG = True
+    DB_CONFIG = {
+
+    }
 
 
 class BetaConfig(Config):
@@ -37,6 +39,9 @@ class LocalConfig(Config):
     ENV = 'local'
     TESTING = True
     DEBUG = True
+    DB_CONFIG = {
+
+    }
 
 
 class TestConfig(Config):

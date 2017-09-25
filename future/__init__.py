@@ -15,6 +15,6 @@ elif os.environ.get('RUNTIME_ENV') == 'beta':
 else:
     CONFIG = LocalConfig
 
-app = create_app(CONFIG)
+app = create_app()
 
 __all__ = ['CONFIG', 'app']

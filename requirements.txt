@@ -2,3 +2,5 @@ sanic==0.6.0
 peewee==2.10.1
 peewee-async==0.5.7
 aiopg==0.13.1
+Marshmallow-Peewee==1.2.1
+marshmallow==2.13.6

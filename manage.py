@@ -3,8 +3,7 @@
 import sys
 import getopt
 
-from future import app
-
+from future import app, school_bp_v1
 
 class Usage(Exception):
 
@@ -18,6 +17,8 @@ def main(argv=None):
     try:
         try:
             opts, args = getopt.getopt(argv[1:], "hp:", ["help", "port="])
+
+            app.blueprint(school_bp_v1)
             app.run(host='0.0.0.0', debug=False)
         except getopt.error as msg:
             raise Usage(msg)

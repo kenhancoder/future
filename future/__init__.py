@@ -4,6 +4,7 @@
 import os
 
 from future.application import create_app
+
 from future.configs import DevConfig, ProdConfig, BetaConfig, LocalConfig
 
 if os.environ.get('RUNTIME_ENV') == 'prod':
@@ -17,4 +18,6 @@ else:
 
 app = create_app()
 
-__all__ = ['CONFIG', 'app']
+from future.school.api import bp_v1 as school_bp_v1
+
+__all__ = ['CONFIG', 'app', 'school_bp_v1']

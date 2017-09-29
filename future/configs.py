@@ -50,7 +50,7 @@ class LocalConfig(Config):
     TESTING = True
     DEBUG = True
     DB_CONFIG = {
-
+        'database': 'future'
     }
 
 

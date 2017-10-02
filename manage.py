@@ -3,7 +3,7 @@
 import sys
 import getopt
 
-from future import app, school_bp_v1
+from future import app, school_bp_v1, JSONHttpProtocol
 
 class Usage(Exception):
 
@@ -19,7 +19,7 @@ def main(argv=None):
             opts, args = getopt.getopt(argv[1:], "hp:", ["help", "port="])
 
             app.blueprint(school_bp_v1)
-            app.run(host='0.0.0.0', debug=False)
+            app.run(host='0.0.0.0', debug=True, protocol=JSONHttpProtocol)
         except getopt.error as msg:
             raise Usage(msg)
     except Usage as err:

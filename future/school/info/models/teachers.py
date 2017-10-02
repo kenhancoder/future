@@ -18,9 +18,4 @@ class Teachers(BaseModel):
         result = {}
         result['teacherls'] = []
         ls = cls.select()
-        for item in ls:
-            result['teacherls'].append({
-                'name': item.name
-            })
-
-        return json(result)
+        return [{'name': item.name, 'id': item.id} for item in ls]

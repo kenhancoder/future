@@ -3,12 +3,11 @@
 from functools import wraps
 
 
-def marshal(data, schema):
+def serializer_schema(schema, data):
 
     if isinstance(data, (list, tuple)):
-        return [marshal(d, schema) for d in data]
-
-    result, errors = schema.dump(data)
+        return [serializer_schema(schema, d) for d in data]
+    result, errors = schema().dump(data)
     if errors:
         for item in errors.items():
             print('{}: {}'.format(*item))
@@ -23,5 +22,5 @@ class marshal_with(object):
         @wraps(f)
         async def wrapper(*args, **kwargs):
             resp = await f(*args, **kwargs)
-            return marshal(resp, self.schema)
+            return serializer_schema(self.schema, resp)
         return wrapper

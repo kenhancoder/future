@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-from sanic.response import json
 from peewee import FixedCharField
 
 from future.database import BaseModel

@@ -18,7 +18,4 @@ else:
 
 app = create_app()
 
-from future.school.api import bp_v1 as school_bp_v1
-from future.utils.protocol import JSONHttpProtocol
-
-__all__ = ['CONFIG', 'app', 'school_bp_v1', 'JSONHttpProtocol']
+__all__ = ['CONFIG', 'app']

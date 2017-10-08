@@ -3,7 +3,10 @@
 import sys
 import getopt
 
-from future import app, school_bp_v1, JSONHttpProtocol
+from future import app
+from future.protocol import JSONHttpProtocol
+from future.school import school_bp_v1
+
 
 class Usage(Exception):
 

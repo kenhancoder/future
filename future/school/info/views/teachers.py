@@ -4,7 +4,7 @@ from sanic.views import HTTPMethodView
 from marshmallow_peewee import ModelSchema
 
 from ..models.teachers import Teachers
-from future.utils.marshal import marshal_with
+from future.marshal import marshal_with
 
 
 class TeacherSchema(ModelSchema):

@@ -2,8 +2,6 @@
 
 from sanic import Sanic
 
-app = Sanic()
-
 
 def create_app():
 

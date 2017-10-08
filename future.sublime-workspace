@@ -1,0 +1,820 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"marshal_with"
+			],
+			[
+				"sch",
+				"school_bp_v1\timport"
+			],
+			[
+				"vl",
+				"value1"
+			],
+			[
+				"payslip_run",
+				"payslip_run_dict"
+			],
+			[
+				"pay",
+				"payroll_calculate"
+			],
+			[
+				"opto",
+				"option\t(base.xml)"
+			],
+			[
+				"f",
+				"field\tOdoo Field"
+			],
+			[
+				"selec",
+				"selectable\t(list_view.js)"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"hr",
+				"hr_employee_record"
+			],
+			[
+				"login",
+				"login_password"
+			],
+			[
+				"place",
+				"placeholder\t(base.xml)"
+			],
+			[
+				"openerp",
+				"openerp"
+			],
+			[
+				"en",
+				"entry\t(hr_payroll_function.xml)"
+			],
+			[
+				"aut",
+				"auth_id"
+			],
+			[
+				"auth",
+				"auth_ids"
+			],
+			[
+				"api",
+				"api_ids"
+			],
+			[
+				"now",
+				"now_date"
+			],
+			[
+				"year",
+				"yearmonth"
+			],
+			[
+				"_de",
+				"_.defaults"
+			],
+			[
+				"q",
+				"qr_code_name"
+			],
+			[
+				"qr",
+				"qr_code_url"
+			],
+			[
+				"image",
+				"image_medium_url"
+			],
+			[
+				"comp",
+				"company_id"
+			],
+			[
+				"empl",
+				"employee_number"
+			],
+			[
+				"wecha",
+				"wechatword\tmodule"
+			],
+			[
+				"tim",
+				"timestamp\t(allot_kf.py)"
+			],
+			[
+				"re",
+				"record"
+			],
+			[
+				"record",
+				"records"
+			],
+			[
+				"db",
+				"db_session_zyt"
+			],
+			[
+				"get",
+				"getLogger"
+			],
+			[
+				"wai",
+				"waiting_customer\t(waiting_customers.py)"
+			],
+			[
+				"NO",
+				"None"
+			],
+			[
+				"reco",
+				"recordid"
+			],
+			[
+				"json",
+				"json_encode\tfunction"
+			],
+			[
+				"ge",
+				"get_today_timestamp\tfunction"
+			],
+			[
+				"se",
+				"server_goocanim"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"server_goocanim",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"server_goocanim",
+				""
+			]
+		],
+		[
+			[
+				[
+					"server_web",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"server_web",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet:",
+				"Snippet: While Loop"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git dff",
+				"Git: Diff All Files"
+			],
+			[
+				"git  diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git dif",
+				"Git: Diff All Files"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git df",
+				"Git: Diff Current File"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"jspre",
+				"JsPrettier: Format Code"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"git lb",
+				"Git: Blame"
+			],
+			[
+				"odoo",
+				"Snippet: Odoo Base XML File"
+			],
+			[
+				"snippe",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"snippet",
+				"Snippet: Odoo form"
+			],
+			[
+				"snipp temp",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git his",
+				"Git: Commit history"
+			],
+			[
+				"json",
+				"JsonTree: Show Tree"
+			],
+			[
+				"git b",
+				"Git: Blame"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			],
+			[
+				"package li",
+				"Package Control: List Packages"
+			],
+			[
+				"git di",
+				"Git: Diff All Files"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kenhan/Documents/Ken/project/future",
+		"/Users/kenhan/Documents/Ken/project/future/future",
+		"/Users/kenhan/Documents/Ken/project/future/future/school",
+		"/Users/kenhan/Documents/Ken/project/future/future/school/info",
+		"/Users/kenhan/Documents/Ken/project/future/future/school/info/models",
+		"/Users/kenhan/Documents/Ken/project/future/future/school/info/views"
+	],
+	"file_history":
+	[
+		"/Users/kenhan/Documents/test.py",
+		"/Users/kenhan/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/kenhan/Documents/Ken/project/future/future/__init__.py",
+		"/Users/kenhan/Documents/Ken/project/future/future/marshal.py",
+		"/Users/kenhan/Documents/Ken/project/future/future/database.py",
+		"/Users/kenhan/Documents/Ken/project/future/future/configs.py",
+		"/Users/kenhan/Documents/Ken/project/future/manage.py",
+		"/Users/kenhan/Documents/Ken/project/future/env/lib/python3.6/site-packages/sanic/app.py",
+		"/Users/kenhan/Documents/Ken/project/future/future/school/api.py",
+		"/Users/kenhan/Documents/Ken/project/future/env/lib/python3.6/site-packages/sanic/views.py",
+		"/Users/kenhan/Documents/Ken/project/future/future/school/info/models/teachers.py",
+		"/Users/kenhan/Documents/Ken/project/future/future/school/info/views/teachers.py",
+		"/Users/kenhan/Documents/Ken/project/future/future/utils/marshal.py",
+		"/Users/kenhan/Documents/Ken/project/future/future.sublime-project",
+		"/Users/kenhan/Documents/Ken/project/future/future/school/__init__.py",
+		"/Users/kenhan/Documents/Ken/project/future/future/application.py",
+		"/Users/kenhan/Documents/Ken/project/future/env/lib/python3.6/site-packages/peewee.py",
+		"/Users/kenhan/Documents/Ken/project/future/env/lib/python3.6/site-packages/playhouse/read_slave.py",
+		"/Users/kenhan/Documents/Ken/project/future/env/lib/python3.6/site-packages/playhouse/flask_utils.py",
+		"/Users/kenhan/Documents/Ken/project/future/requirements.txt",
+		"/Users/kenhan/Documents/Ken/project/future/future/school/models/teachers.py",
+		"/Users/kenhan/Documents/Ken/project/future/env/lib/python3.6/site-packages/pwiz.py",
+		"/Users/kenhan/Documents/Ken/project/future/env/lib/python3.6/site-packages/sanic/config.py",
+		"/Users/kenhan/Documents/Ken/project/future/.gitignore",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_setting/payroll_data/pre_hr_payroll_function.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_setting/payroll_data/payroll_reference_payitem.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_calculate/models/hr_payroll_period.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_period/payroll_period.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_period/period_group_account_book.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_period/payroll_year.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_calculate/models/hr_payslip_run.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_calculate/models/hr_payroll_period_inherit.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/payslip_info/payslip_info_payitem.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/payslip_info/payslip_info_group.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/payslip_info/payslip_info_group.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/custom_addons/addons/spdb_epay/controllers/main.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/payslip_info/controllers/main.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/custom_addons/addons/spdb_epay/bank_offer.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_calculate/view/hr_payslip_run_view.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/report/controllers/main.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_setting/views/hr_payroll_group_view.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/base_addons/addons/patch_base/ir/ir_model_data.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/openerp/addons/base/ir/ir_model.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/home/static/src/js/bundle.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/home/static/src/bundle.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/home/controllor/home_controller.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/home/model/HomePage.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/hr_attendance_location/model/hr_attendance_exempt.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/hr_overtime/hr_overtime.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/hr_expense_custom/models/hr_expense.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/hr_holiday_management/hr_holiday_leave.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/openerp/models.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_calculate/models/hr_payslip_run_reopen_batch.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_calculate/wizard/hr_payslip_run_diff_wizard.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_setting/models/hr_payroll_group.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_calculate/view/hr_payroll_menu.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_setting/views/hr_payroll_menu.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/home/static/src/js/home.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/home/__openerp__.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_calculate/view/exception_handling.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/payroll_attendance_submit/views/attendance_submit_view.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/hr_contract_inherit/hr_contract.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/hr_contract_inherit/hr_employee.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/openerp/sql_db.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/base_addons/addons/approve_flow/model/approve_instance.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/server_ehr2_1.conf",
+		"/Users/kenhan/workspace/eroad/project/ehr/custom_addons/addons/costa_payroll_function/data/costa_excel_report_data.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/custom_addons/addons/costa_payroll_function/data/hr_payroll_function_category.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/custom_addons/addons/costa_payroll_function/data/costa_payroll_function.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/custom_addons/addons/costa_payroll_function/payroll_function/payroll_function.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_calculate/view/exception_mutli.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/hr_contract/hr_contract.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/openerp/fields.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/payslip_info/payslip_info_batch.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/payslip_info/payslip_info_batch_view.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_calculate/view/payrollPromptSetting_view.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/purchase_requisition/purchase_requisition_view.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/purchase_requisition/static/src/js/web_addons.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_calculate/view/load_static.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/account/static/src/js/move_line_quickadd.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_calculate/static/src/js/reopen_batch.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/web/static/src/js/views/list_view.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/base_addons/addons/ace_widget/views/web_templates.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/web/static/src/js/framework/core.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/payslip_info/static/src/js/widgets/erweb_payslip_password.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_calculate/__openerp__.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/hr_attendance_ibeacon/static/src/js/hr_attendance_ibeacon_setting.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/hr_attendance_ibeacon/__openerp__.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/hr_expense_line_extension/static/src/js/hr_expense_line_extension.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/hr_expense_line_extension/hr_employee_expense_view.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/hr_expense_line_extension/hr_expense_line_view.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/web/static/src/js/views/form_common.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/web/static/src/js/views/form_relational_widgets.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/web/static/src/js/views/list_view_editable.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_calculate/view/web.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/payslip_info/payslip_load_css.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_role_data/data/menu_access_list_data.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/web_kanban/static/src/js/kanban_view.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/website_sale/views/views.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/openerp/addons/base/ir/ir_ui_view.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/common_addons/addons/eroad_instance_controller/eroad_instance_controller_view.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/web/static/src/xml/base.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/base_addons/addons/patch_web/static/src/xml/x2many_delete_all.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/base_addons/addons/patch_web/static/src/xml/color_picker.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/base_addons/addons/builder/static/src/xml/templates.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/eroad_portal/data/news_type_data.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/eroad_portal/news.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/eroad_portal/ir_model.py",
+		"/Users/kenhan/workspace/eroad/project/ehr/common_addons/addons/calendar_event_summary/view/import_excel_menu.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/base_addons/addons/unified_data_interface/views/export_excel.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/base_addons/addons/builder/views/model_view.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/base_addons/addons/builder/views/action_view.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/base_import/static/src/js/import.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/openerp/addons/base/module/wizard/base_export_language_view.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/custom_addons/addons/gzmm_checkstore/view/store_checkitem_view.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/base_addons/addons/export_excel/views/export.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/base_addons/addons/builder/wizard/module_export_view.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/base_addons/addons/backend_theme/views/web.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/website_sale/data/demo.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/stock_dropshipping/stock_dropshipping.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/web/static/src/xml/website.tour.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/web/static/src/xml/base_common.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/hr_salary_adjustment/i18n/zh_CN.po",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/hr_salary_adjustment/data/salary_adjustment_mail_templates.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/hr_recruitments/data/hr_recruitment_templates.xml",
+		"/Users/kenhan/workspace/eroad/project/ehr/payroll_addons/addons/payroll_calculate/i18n/zh_CN.po",
+		"/Users/kenhan/workspace/eroad/project/ehr/ehr_addons/addons/user_guideline/static/src/js/user_guideline.js",
+		"/Users/kenhan/workspace/eroad/project/ehr/odoo/addons/web/static/src/js/views/search_view.js"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"school_bp_v1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 264.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 156.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 156.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "future.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"payroll_addons/addons/payroll_calculate/models/hr_payroll_period.py",
+				"payroll_addons/addons/payroll_calculate/models/hr_payroll_period.py"
+			],
+			[
+				"ehr_addons/addons/home/static/src/bundle.js",
+				"ehr_addons/addons/home/static/src/bundle.js"
+			],
+			[
+				"addons/report/controllers/main.py",
+				"odoo/addons/report/controllers/main.py"
+			],
+			[
+				"odoo/addons/web/controllers/main.py",
+				"odoo/addons/web/controllers/main.py"
+			],
+			[
+				"ehr_addons/addons/payslip_info/wizard/__init__.py",
+				"ehr_addons/addons/payslip_info/wizard/__init__.py"
+			],
+			[
+				"ehr_addons/addons/patch_menu_management/new_menu_management.xml",
+				"ehr_addons/addons/patch_menu_management/new_menu_management.xml"
+			],
+			[
+				"payslip_info/static/src/xml/res_users_view.xml",
+				"ehr_addons/addons/payslip_info/static/src/xml/res_users_view.xml"
+			],
+			[
+				"payslip_info/static/src/xml/erweb_payslip_password.xml",
+				"ehr_addons/addons/payslip_info/static/src/xml/erweb_payslip_password.xml"
+			],
+			[
+				"payslip_info/wizard/hr_payslip_query_passwd_view.xml",
+				"ehr_addons/addons/payslip_info/wizard/hr_payslip_query_passwd_view.xml"
+			],
+			[
+				"payslip_pass",
+				"ehr_addons/addons/payslip_info/wizard/hr_payslip_query_passwd.py"
+			],
+			[
+				"payslip_pas",
+				"ehr_addons/addons/payslip_info/static/src/js/widgets/erweb_reset_payslip_passwd.js"
+			],
+			[
+				"security_strategy/static/src/js/widgets/change_password.js",
+				"base_addons/addons/security_strategy/static/src/js/widgets/change_password.js"
+			],
+			[
+				"addons/security_strategy/static/src/xml/base.xml",
+				"base_addons/addons/security_strategy/static/src/xml/base.xml"
+			],
+			[
+				"security_strategy/static/src/xml/base.xml",
+				"base_addons/addons/security_strategy/static/src/xml/base.xml"
+			],
+			[
+				"hr_recruitments/models/hr_recruitment_application.py",
+				"ehr_addons/addons/hr_recruitments/models/hr_recruitment_application.py"
+			],
+			[
+				"base_addons/addons/patch_base/models.py",
+				"base_addons/addons/patch_base/models.py"
+			],
+			[
+				"payroll_addons/addons/payroll_role_data/data/menu_access_list_data.xml",
+				"payroll_addons/addons/payroll_role_data/data/menu_access_list_data.xml"
+			],
+			[
+				"ehr_addons/addons/hr_expense_custom/data/menu_access_list_data.xml",
+				"ehr_addons/addons/hr_expense_custom/data/menu_access_list_data.xml"
+			],
+			[
+				"base_addons/addons/view_access/data/menu_access_list_data.xml",
+				"base_addons/addons/view_access/data/menu_access_list_data.xml"
+			],
+			[
+				"common_addons/addons/hr_base/data/menu_access_list_data.xml",
+				"common_addons/addons/hr_base/data/menu_access_list_data.xml"
+			],
+			[
+				"base_addons/addons/security_strategy/data/menu_access_list_data.xml",
+				"base_addons/addons/security_strategy/data/menu_access_list_data.xml"
+			],
+			[
+				"common_addons/addons/eroad_role/data/menu_access_list_data.xml",
+				"common_addons/addons/eroad_role/data/menu_access_list_data.xml"
+			],
+			[
+				"security_strategy/data/menu_access_list_data",
+				"base_addons/addons/security_strategy/data/menu_access_list_data.xml"
+			],
+			[
+				"eroad_role/data/menu_access_list_data.xml",
+				"common_addons/addons/eroad_role/data/menu_access_list_data.xml"
+			],
+			[
+				"common_addons/addons/web_img/img_url.py",
+				"common_addons/addons/web_img/img_url.py"
+			],
+			[
+				"smcc_instance/patches/patch_config.py",
+				"smcc_instance/patches/patch_config.py"
+			],
+			[
+				"odoo/openerp/cli/server.py",
+				"odoo/openerp/cli/server.py"
+			],
+			[
+				"addons/batch_process/function_tool",
+				"base_addons/addons/batch_process/function_tool.py"
+			],
+			[
+				"virtuos_data_import/__init__.py",
+				"custom_addons/addons/virtuos_data_import/__init__.py"
+			],
+			[
+				"hr_expense_custom/data/menu_access_list_data.xml",
+				"ehr_addons/addons/hr_expense_custom/data/menu_access_list_data.xml"
+			],
+			[
+				"hr_expense_custom/data/menu_access_list_data",
+				"ehr_addons/addons/hr_expense_custom/data/menu_access_list_data.xml"
+			],
+			[
+				"hr_recruitment_data.xml",
+				"ehr_addons/addons/hr_recruitments/data/hr_recruitment_data.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 882.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
